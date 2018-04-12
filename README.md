@@ -1,4 +1,4 @@
-                                   Assignment 3 v2.0
+													Assignment 3 v2.0
 
 
 AdaptiveAlgo Systems Inc. has invited you to be partners in helping them implement data
