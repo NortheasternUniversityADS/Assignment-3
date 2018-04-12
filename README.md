@@ -1,4 +1,6 @@
-Assignment 3 v2.0
+                                   Assignment 3 v2.0
+
+
 AdaptiveAlgo Systems Inc. has invited you to be partners in helping them implement data
 science solutions. Your company was selected after rigorous review and is held in high esteem
 for the quality data science solutions you have been developing. However, the AdaptiveAlgo is
